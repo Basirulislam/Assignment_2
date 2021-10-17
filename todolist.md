@@ -6,5 +6,5 @@
 
 # 2nd assignment
 - [ ]  Make figures in task 1 lok nicer, add also probability density line in the same plot? 
-- [ ]  Finish Task 2
+- [x]  Finish Task 2
 - [ ] Finish task 3
