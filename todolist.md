@@ -1,7 +1,7 @@
 # To Do 
 # 1st assignment
-- [ ]  For the multiclass problems create score based on confusion matrix 
-- [ ]  The 16 features multiclass with 7 classes needs to have a 16x7 table with ther scores (accuracy?)
+- [x]  For the multiclass problems create score based on confusion matrix 
+- [x]  The 16 features multiclass with 7 classes needs to have a 16x7 table with ther scores (accuracy?)
 
 
 # 2nd assignment
